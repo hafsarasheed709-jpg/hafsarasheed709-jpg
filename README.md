@@ -3,7 +3,7 @@
 ### BS Mathematics  | Machine Learning & Generative AI | Python & Data Analysis| problem solver
 ## 🚀 About Me
 
-I am a **BS AI Mathematics ** developing practical skills in **Machine Learning, Generative AI, Python, and Data Analysis**.
+I am a BS AI Mathematics developing practical skills in **Machine Learning, Generative AI, Python, and Data Analysis**.
 
 My goal is to connect mathematical thinking with real-world technology and build projects that solve meaningful problems.
 
